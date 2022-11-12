@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NjegosGorancic
 - 👀 I’m interested in Quality assurence
-- 💞️ I’m looking to collaborate on Quality assurance as tester
+- 💞️ I’m looking to collaborate on Quality assurance as a manual tester
 - 📫 I can be reached via email adress njegosgorancic@gmail.com ...
 
 <!---
